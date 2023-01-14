@@ -1,0 +1,12 @@
+[project]
+name = "gdcheck"
+description = "Automatically check Godot project organization against the recommended structure"
+version = "0.1.0"
+license = "MIT"
+authors = [
+    "Douglas C. <douglasc.dev@gmail.com>"
+]
+
+[tool.poetry]
+readme = "README.md"
+
